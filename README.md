@@ -37,6 +37,9 @@ This project is a **proof of concept (POC)** using Quarkus and GraalVM to genera
 5. **Rebuild the application**  
    After installing the dependencies, run the build again. It should succeed.
 
+6. **Deliverable**
+    You will find the executable file in target    
+
 ---
 
 ## ✅ Key Notes
@@ -45,5 +48,3 @@ This project is a **proof of concept (POC)** using Quarkus and GraalVM to genera
 - For production, consider containerizing the native executable for portability.  
 
 ---
-
-Would you like me to also add a **Quick Start section** with commands to run the app after building (like `./target/myapp`), so new users can immediately test it?
